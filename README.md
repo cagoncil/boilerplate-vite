@@ -10,4 +10,4 @@
 
 ## TypeScript (Optional)
 
-`npm i -D typescript @types/react @types/node @types/express`
+`npm i -D typescript @types/react @types/node @types/express @typescript-eslint/parser @typescript-eslint/eslint-plugin`
