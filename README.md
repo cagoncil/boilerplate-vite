@@ -10,4 +10,4 @@
 
 ## TypeScript (Optional)
 
-`npm i -D typescript @types/react @types/node`
+`npm i -D typescript @types/react @types/node @types/express`
