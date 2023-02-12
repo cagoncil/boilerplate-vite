@@ -10,4 +10,4 @@
 
 ## TypeScript (Optional)
 
-`npm i -D typescript ts-node @types/react @types/node @types/express @typescript-eslint/parser @typescript-eslint/eslint-plugin`
+`npm i -D typescript ts-node vite-plugin-ts @types/react @types/node @types/express @typescript-eslint/parser @typescript-eslint/eslint-plugin`
